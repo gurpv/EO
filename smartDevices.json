@@ -1,0 +1,22 @@
+{
+    "Canopy1": {
+        "TimeStamp": "2017-07-03 00:00:00",
+        "PV DC Power (kWh)": 172.6
+    },
+    "Canopy2": {
+        "TimeStamp": "2017-07-03 01:00:00",
+        "PV DC Power (kWh)": 150.4
+    },
+    "Charger1": {
+        "TimeStamp": "2017-07-03 00:00:00",
+        "PV DC Power (kWh)": 172.6
+    },
+    "Charger2": {
+        "TimeStamp": "2017-07-03 01:00:00",
+        "PV DC Power (kWh)": 150.4
+    },
+    "ESS": {
+        "TimeStamp": "2017-07-03 00:00:00",
+        "PV DC Power (kWh)": 172.6
+    }
+}
